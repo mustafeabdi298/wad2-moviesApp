@@ -91,3 +91,4 @@ const MovieDetails = ({ movie }) => {  // Don't miss this!
   );
 };
 export default  MovieDetails ;
+
