@@ -12,3 +12,4 @@ const MovieList = ( {movies, action }) => {
 };
 
 export default MovieList;
+
