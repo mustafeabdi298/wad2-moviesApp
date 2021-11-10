@@ -46,3 +46,4 @@ const MovieHeader = ( { movie, history}) => {
 };
 
 export default withRouter(MovieHeader);
+
