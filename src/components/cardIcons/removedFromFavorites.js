@@ -21,3 +21,4 @@ const RemoveFromFavoritesIcon = ({ movie }) => {
 };
 
 export default RemoveFromFavoritesIcon;
+
